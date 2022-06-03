@@ -1,0 +1,1 @@
+web: gunicorn fonts.wsgi --log-file -
