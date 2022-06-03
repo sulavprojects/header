@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7e2y8_gmmswkqy(ngtbg#mdrw%l2$xhybj(f^wqk)+8-zo_ddq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['arabfonts.herokuapp.com', 'local', '*']
+ALLOWED_HOSTS = ['arabfonts.herokuapp.com', 'localhost', '*', 'arabfonts.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
