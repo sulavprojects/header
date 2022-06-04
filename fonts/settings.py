@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-7e2y8_gmmswkqy(ngtbg#mdrw%l2$xhybj(f^wqk)+8-zo_ddq'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['arabfonts.herokuapp.com', 'localhost', '*', 'arabfonts.herokuapp.com', '127.0.0.1']
 
